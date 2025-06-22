@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [ "main" ]  # твоя гілка — main
+    branches: [ "main" ] 
   schedule:
     - cron: '30 2 * * *'  # автоматичний запуск раз на добу
   workflow_dispatch:
