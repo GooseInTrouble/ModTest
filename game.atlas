@@ -1,0 +1,9 @@
+game.png
+size:512,256
+repeat:none
+Abyss
+bounds:204,102,100,100
+Swimmers
+bounds:2,2,200,200
+Underwater Tomb
+bounds:306,102,100,100
