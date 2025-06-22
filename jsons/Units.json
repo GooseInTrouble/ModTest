@@ -13,5 +13,22 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+		{
+		"name": "TestUnit",
+		"unitType": "Sword",
+		"uniqueTo": "Abysmal",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 6,
+		"cost": 500,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Logistics","Accuracy I"],
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
 	}
 ]

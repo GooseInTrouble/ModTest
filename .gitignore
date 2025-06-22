@@ -1,0 +1,7 @@
+*.kra
+*.png~
+*.log
+
+.vscode/
+ref/
+schemas/
