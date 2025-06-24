@@ -12,14 +12,14 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	},
-		{
+	{
 		"name": "Swimmers",
-		"unitType": "Sword",
+		"unitType": "Melee",
 		"uniqueTo": "Abysmal",
 		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 6,
-		"cost": 500,
+		"cost": 50,
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Logistics","Accuracy I"],
 		"upgradesTo": "Swordsman",
@@ -28,5 +28,25 @@
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
 		]
+	},
+	{
+		"name": "Whale Sub",
+		"unitType": "Melee",
+		"movement": 1,
+		"strength": 1,
+		"cost": 1,
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
+	{
+		"name": "Swordfish Sub",
+		"unitType": "Melee",
+		"movement": 1,
+		"strength": 1,
+		"cost": 1,
+		"attackSound": "nonmetalhit"
 	}
 ]

@@ -50,7 +50,6 @@
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
-
 	{
 		"name": "The New Movement",
 		"leaderName": "Anton Slavik",
@@ -69,5 +68,101 @@
 		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
+	{
+	"name": "NuclearNation",
+	"leaderName": "Caiman",
+	"adjective": ["Abyss"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Scientific",
+	"personality": "TestPersonality",
+
+	"startIntroPart1": "Text part 1",
+	"startIntroPart2": "Text part 2",
+
+	"declaringWar": "war",
+	"attacked": "deffence",
+	"defeated": "lost",
+	"introduction": "intro",
+
+	"neutralHello": "Hello.",
+	"hateHello": "NotHello",
+
+	"tradeRequest": "trade",
+
+	"outerColor": [27,53,63],
+	"innerColor": [213,249,255],
+	"favoredReligion": "Islam",
+	"uniqueName": "Im UniqueName",
+	"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+	"cities": ["0","1","2","3","4","5","6","7","8","9",
+		"10","11","12","13","14","15","16","17","18","19",
+		"20","21","22","23","24","25","26","27","28","29",
+		"30","31","32","33","34","35","36","37","38","39","40"],
+	"spyNames": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+	},
+	{
+	"name": "MiningNation",
+	"leaderName": "Cogmind",
+	"adjective": ["Miner"],
+	"startBias": ["Hill"],
+	"preferredVictoryType": "Scientific",
+	"personality": "TestPersonality",
+
+	"startIntroPart1": "Text part 1",
+	"startIntroPart2": "Text part 2",
+
+	"declaringWar": "war",
+	"attacked": "deffence",
+	"defeated": "lost",
+	"introduction": "intro",
+
+	"neutralHello": "Hello.",
+	"hateHello": "NotHello",
+
+	"tradeRequest": "trade",
+
+	"outerColor": [27,53,63],
+	"innerColor": [213,249,255],
+	"favoredReligion": "Islam",
+	"uniqueName": "Im UniqueName",
+	"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+	"cities": ["0","1","2","3","4","5","6","7","8","9",
+		"10","11","12","13","14","15","16","17","18","19",
+		"20","21","22","23","24","25","26","27","28","29",
+		"30","31","32","33","34","35","36","37","38","39","40"],
+	"spyNames": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+	},
+	{
+	"name": "MilitaryNation",
+	"leaderName": "Caiman",
+	"adjective": ["Abyss"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Scientific",
+	"personality": "TestPersonality",
+
+	"startIntroPart1": "Text part 1",
+	"startIntroPart2": "Text part 2",
+
+	"declaringWar": "war",
+	"attacked": "deffence",
+	"defeated": "lost",
+	"introduction": "intro",
+
+	"neutralHello": "Hello.",
+	"hateHello": "NotHello",
+
+	"tradeRequest": "trade",
+
+	"outerColor": [27,53,63],
+	"innerColor": [213,249,255],
+	"favoredReligion": "Islam",
+	"uniqueName": "Im UniqueName",
+	"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+	"cities": ["0","1","2","3","4","5","6","7","8","9",
+		"10","11","12","13","14","15","16","17","18","19",
+		"20","21","22","23","24","25","26","27","28","29",
+		"30","31","32","33","34","35","36","37","38","39","40"],
+	"spyNames": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 	}
 ]
