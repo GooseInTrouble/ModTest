@@ -39,3 +39,17 @@ UnitIcons/Swimmers
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/test1
+  rotate: false
+  xy: 744, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/test2
+  rotate: false
+  xy: 852, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
